@@ -9,7 +9,6 @@ GetName();
 int sum = Sum2(25, 58);
 Console.WriteLine(sum);
 
-
 static void GetHello()
 {
     Console.WriteLine("Hello");
